@@ -6,6 +6,11 @@
     min-height: 100vh;
 }
 
+.imgcartao{
+    max-height: 251px;
+    min-height: 251px;
+}
+
 .fundo-1{
     background-color: #aabbcc;
 }
