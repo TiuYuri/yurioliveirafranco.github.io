@@ -20,6 +20,35 @@ p{
     line-height: 1.5;
 }
 
+.page-footer{
+  background-color: #3B3738;
+}
+
+.nav-wrapper{
+    background-color: #3B3738;
+}
+
+span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+span.spacer {
+   padding:0 5px;
+}
+
+.game{
+  font-family: 'Press Start 2P', cursive;
+}
+
+.work{
+  font-family: 'Source Code Pro', monospace;
+}
+
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
